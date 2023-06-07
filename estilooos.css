@@ -1,0 +1,24 @@
+    .titulo-principal,p {
+    font-size: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 50%;
+     color: #ff7795;
+    }
+
+    .titulo-segundario,p {
+    font-size: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 50%;
+    color: black;
+    }
+
+    .exemplo3:hover {
+    background: #80D0C7;
+     }
+
+    .link {
+    text-align: left;
+    color: #ff7795;
+    }
